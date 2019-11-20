@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "814894894639",
+    "firebase_url": "https://birdslasthw.firebaseio.com",
+    "project_id": "birdslasthw",
+    "storage_bucket": "birdslasthw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814894894639:android:20c4a4831d6bf06f1740da",
+        "android_client_info": {
+          "package_name": "com.example.birdlasthw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814894894639-nolsiekamjqccork1ctlr2h2btlb3cf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.birdlasthw",
+            "certificate_hash": "e610dbd273e089e1d7f84c8083c8e2f4d93119c8"
+          }
+        },
+        {
+          "client_id": "814894894639-6111nv7lqtp2qgd8qb2keiks4rmvrjv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvX5BlNqUjycAv6ukodduiApJMp2JzQ4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814894894639-6111nv7lqtp2qgd8qb2keiks4rmvrjv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
